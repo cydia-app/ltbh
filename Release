@@ -1,0 +1,11 @@
+Origin: 力天百汇备用
+Label: 力天百汇备用
+Suite: stable
+Version: 1.0
+Codename: ltbh
+Architecture: iphoneos-arm
+Components: main
+Description: 力天百汇定制源
+MD5Sum:
+ 76726e94e3c777bf6fd8cf67ee956843 407 Packages
+ f7fd85bfea474a3086797210fac04ccf 344 Packages.bz2

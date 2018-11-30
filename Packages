@@ -1,0 +1,14 @@
+Package: com.edd818a07cc8.litianzhuanapp
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: 力天赚
+Maintainer: 力天百汇
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./com.edd818a07cc8.litianzhuanapp-2.0.0.deb
+Size: 8942444
+MD5sum: 78ef63355b375c97a0cdc4e277d9227a
+Name: 力天赚
+Author:  力天百汇
+Sponsor: 力天百汇
+Icon: file:///Applications/litianzhuanapp.app/AppIcon60x60@2x.png
+
